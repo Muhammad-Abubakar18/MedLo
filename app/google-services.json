@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768152539849",
+    "project_id": "medlo-4c2f9",
+    "storage_bucket": "medlo-4c2f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768152539849:android:e1226f76f8b7dc7906f318",
+        "android_client_info": {
+          "package_name": "com.example.medlo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUDG_uf32nb6EBYnGg9Dr3X6bFuFdpXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

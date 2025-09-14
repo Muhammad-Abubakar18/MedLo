@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Medlo.Grey" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimaryVariant">@color/lavender</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/light_grey</item>
+        <item name="colorSurface">@color/light_grey</item>
+        <item name="colorOnSurface">@color/black</item>
+    </style>
+</resources>
